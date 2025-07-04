@@ -1,14 +1,6 @@
 # 🚀 CodePulse - Personalized Coding Progress Tracker
 
-<div align="center">
 
-</div>
-
-<br />
-
-
-
-<br />
 
 CodePulse Tracker is a dynamic, personalized study planner designed to help developers and students master coding problems for interviews and skill-building. It generates a tailored, day-by-day study schedule based on your skill level, desired timeline, and specific topics of interest. Track your progress, take detailed notes, and stay on top of your goals with an intuitive and feature-rich interface.
 - **[Live Demo](https://codepulsetracker.vercel.app/authentication)** - Try the application
